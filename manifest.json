@@ -1,0 +1,24 @@
+{
+  "short_name": "酷幻極速",
+  "name": "酷幻極速 3D - 霓虹多人對決賽車",
+  "description": "3D 霓虹科幻極速狂飆賽車網頁 App。支援單機練習賽與多人即時連線競速！",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#06b6d4",
+  "display": "standalone",
+  "orientation": "landscape",
+  "categories": ["games", "sports"]
+}
