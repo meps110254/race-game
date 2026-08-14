@@ -1,0 +1,6 @@
+{
+  "name": "3D Multiplayer Racing Game",
+  "description": "具備逼真物理引擎、即時多人連線與豐富自訂車輛改裝的 3D 賽車遊戲",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
